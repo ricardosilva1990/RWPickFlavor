@@ -1,0 +1,1 @@
+/Users/ricardosilva/Documents/Libraries/RWPickFlavor/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
